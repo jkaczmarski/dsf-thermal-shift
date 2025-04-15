@@ -1,0 +1,15 @@
+Compound,SMILES,Description
+Compound1,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine
+Compound2,CC(=O)OC1=CC=CC=C1C(=O)O,Aspirin
+Compound3,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Ibuprofen
+Compound4,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CCCCCC1,Glipizide
+Compound5,CC(C)C1=NC(=CS1)CN(C)C(=O)NC2=CC=CC=C2,Tolbutamide
+Compound6,CC1=C(C=CC=C1)NC(=O)C2=CC=C(C=C2)S(=O)(=O)N,Sulindac
+Compound7,CC1=C(C=C(C=C1)F)NC(=O)C2=CC=C(C=C2)S(=O)(=O)N,Celecoxib
+Compound8,CC1=C(C=CC(=C1)F)NC(=O)C2=CC=C(C=C2)S(=O)(=O)N,Valdecoxib
+Compound9,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CCCCC1,Gliclazide
+Compound10,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CCOCC1,Glimepiride
+Compound11,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CCCC1,Glyburide
+Compound12,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NNC1CCCCC1,Tolazamide
+Compound13,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NNC1CCCC1,Chlorpropamide
+Compound14,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NNC1CCC1,Acetohexamide
